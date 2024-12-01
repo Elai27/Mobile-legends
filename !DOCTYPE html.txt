@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head><title>Mobile legends- The Best Mobile Game</title></head>
+<body>
+<header>
+<img src="Untitled.jpg">
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td>Home</>td>
+<td>Articles</>td>
+<td>How</>td>
+<td>Skills</>td>
+<td>Help</>td>
+<td>Support</>td>
+</tr>
+</nav>
+</body>
